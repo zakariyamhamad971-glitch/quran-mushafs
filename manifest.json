@@ -11,7 +11,9 @@
   "apiRiwayaIds": [
    5,
    8
-  ]
+  ],
+  "cropLeftPt": 32,
+  "cropRightPt": 450
  },
  {
   "id": 2,
@@ -26,7 +28,9 @@
    2,
    10,
    18
-  ]
+  ],
+  "cropLeftPt": 9,
+  "cropRightPt": 467
  },
  {
   "id": 3,
@@ -40,7 +44,9 @@
   "apiRiwayaIds": [
    4,
    11
-  ]
+  ],
+  "cropLeftPt": 23,
+  "cropRightPt": 453
  },
  {
   "id": 4,
@@ -54,7 +60,9 @@
   "apiRiwayaIds": [
    6,
    11
-  ]
+  ],
+  "cropLeftPt": 21,
+  "cropRightPt": 454
  },
  {
   "id": 5,
@@ -67,7 +75,9 @@
   "sizeMB": 4.2,
   "apiRiwayaIds": [
    13
-  ]
+  ],
+  "cropLeftPt": 23,
+  "cropRightPt": 459
  },
  {
   "id": 6,
@@ -80,7 +90,9 @@
   "sizeMB": 4.2,
   "apiRiwayaIds": [
    7
-  ]
+  ],
+  "cropLeftPt": 23,
+  "cropRightPt": 459
  },
  {
   "id": 7,
@@ -93,7 +105,9 @@
   "sizeMB": 4.1,
   "apiRiwayaIds": [
    19
-  ]
+  ],
+  "cropLeftPt": 36,
+  "cropRightPt": 446
  },
  {
   "id": 8,
@@ -106,7 +120,9 @@
   "sizeMB": 4.1,
   "apiRiwayaIds": [
    16
-  ]
+  ],
+  "cropLeftPt": 36,
+  "cropRightPt": 448
  },
  {
   "id": 9,
@@ -119,7 +135,9 @@
   "sizeMB": 4.0,
   "apiRiwayaIds": [
    15
-  ]
+  ],
+  "cropLeftPt": 35,
+  "cropRightPt": 433
  },
  {
   "id": 11,
@@ -132,7 +150,9 @@
   "sizeMB": 4.2,
   "apiRiwayaIds": [
    3
-  ]
+  ],
+  "cropLeftPt": 0,
+  "cropRightPt": 472
  },
  {
   "id": 12,
@@ -143,7 +163,9 @@
   "riwayaAr": "خلاد عن حمزة الكوفي",
   "pages": 604,
   "sizeMB": 4.1,
-  "apiRiwayaIds": []
+  "apiRiwayaIds": [],
+  "cropLeftPt": 0,
+  "cropRightPt": 472
  },
  {
   "id": 13,
@@ -154,7 +176,9 @@
   "riwayaAr": "أبو الحارث عن الكسائي الكوفي",
   "pages": 604,
   "sizeMB": 4.3,
-  "apiRiwayaIds": []
+  "apiRiwayaIds": [],
+  "cropLeftPt": 34,
+  "cropRightPt": 438
  },
  {
   "id": 14,
@@ -167,7 +191,9 @@
   "sizeMB": 4.2,
   "apiRiwayaIds": [
    12
-  ]
+  ],
+  "cropLeftPt": 34,
+  "cropRightPt": 438
  },
  {
   "id": 15,
@@ -178,7 +204,9 @@
   "riwayaAr": "ابن وردان عن أبي جعفر المدني",
   "pages": 604,
   "sizeMB": 4.5,
-  "apiRiwayaIds": []
+  "apiRiwayaIds": [],
+  "cropLeftPt": 19,
+  "cropRightPt": 450
  },
  {
   "id": 16,
@@ -191,7 +219,9 @@
   "sizeMB": 4.5,
   "apiRiwayaIds": [
    20
-  ]
+  ],
+  "cropLeftPt": 19,
+  "cropRightPt": 450
  },
  {
   "id": 17,
@@ -204,7 +234,9 @@
   "sizeMB": 4.2,
   "apiRiwayaIds": [
    9
-  ]
+  ],
+  "cropLeftPt": 14,
+  "cropRightPt": 461
  },
  {
   "id": 18,
@@ -217,7 +249,9 @@
   "sizeMB": 4.2,
   "apiRiwayaIds": [
    9
-  ]
+  ],
+  "cropLeftPt": 18,
+  "cropRightPt": 446
  },
  {
   "id": 19,
@@ -228,7 +262,9 @@
   "riwayaAr": "إدريس عن خلف العاشر",
   "pages": 604,
   "sizeMB": 5.1,
-  "apiRiwayaIds": []
+  "apiRiwayaIds": [],
+  "cropLeftPt": 34,
+  "cropRightPt": 451
  },
  {
   "id": 20,
@@ -239,6 +275,8 @@
   "riwayaAr": "إسحاق عن خلف العاشر",
   "pages": 604,
   "sizeMB": 5.0,
-  "apiRiwayaIds": []
+  "apiRiwayaIds": [],
+  "cropLeftPt": 26,
+  "cropRightPt": 443
  }
-]
+  ]
