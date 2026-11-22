@@ -1,0 +1,475 @@
+{
+ "version": 1,
+ "note": "منقول حرفيًا من مربعات الألوان المطبوعة في آخر كل صفحة في مصاحف إسلام ويب",
+ "riwayat": [
+  {
+   "id": 1,
+   "riwayaAr": "قالون عن نافع المدني",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "riwayaAr": "ورش عن نافع المدني",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "التقليل",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "مد البدل",
+     "color": "#00CCFF",
+     "style": "filled"
+    },
+    {
+     "label": "صلة ميم الجمع",
+     "color": "#C0504D",
+     "style": "filled"
+    },
+    {
+     "label": "مد اللين",
+     "color": "#99CC00",
+     "style": "filled"
+    },
+    {
+     "label": "الراءات المرققة",
+     "color": "#00E600",
+     "style": "filled"
+    },
+    {
+     "label": "اللامات المغلظة",
+     "color": "#3366FF",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "riwayaAr": "البزي عن ابن كثير المكي",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "هاء الضمير",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "صلة ميم الجمع",
+     "color": "#FF0000",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "riwayaAr": "قنبل عن ابن كثير المكي",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "هاء الضمير",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "صلة ميم الجمع",
+     "color": "#FF0000",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "riwayaAr": "الدوري عن أبي عمرو البصري",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "التقليل",
+     "color": "#FF0000",
+     "style": "ring"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "riwayaAr": "السوسي عن أبي عمرو البصري",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "التقليل",
+     "color": "#FF0000",
+     "style": "ring"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "riwayaAr": "هشام عن ابن عامر الدمشقي",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "riwayaAr": "ابن ذكوان عن ابن عامر الدمشقي",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "riwayaAr": "شعبة عن عاصم الكوفي",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "riwayaAr": "خلف عن حمزة الكوفي",
+   "items": [
+    {
+     "label": "الكلمة المخالفة لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "السكت",
+     "color": "#00CCFF",
+     "style": "filled"
+    },
+    {
+     "label": "إشمام الصاد صوت الزاي",
+     "color": "#FF6600",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "riwayaAr": "خلاد عن حمزة الكوفي",
+   "items": [
+    {
+     "label": "الكلمة المخالفة لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "السكت",
+     "color": "#00CCFF",
+     "style": "filled"
+    },
+    {
+     "label": "إشمام الصاد صوت الزاي",
+     "color": "#FF6600",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "riwayaAr": "أبو الحارث عن الكسائي الكوفي",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "إشمام الصاد",
+     "color": "#FF6600",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "riwayaAr": "الدوري عن الكسائي الكوفي",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "إشمام الصاد",
+     "color": "#FF6600",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "riwayaAr": "ابن وردان عن أبي جعفر المدني",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "صلة ميم الجمع",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "الغنة مع الخاء والغين",
+     "color": "#00CCFF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "riwayaAr": "ابن جماز عن أبي جعفر المدني",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "صلة ميم الجمع",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "الغنة مع الخاء والغين",
+     "color": "#00CCFF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "riwayaAr": "رويس عن يعقوب البصري",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "riwayaAr": "روح عن يعقوب البصري",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "riwayaAr": "إدريس عن خلف العاشر",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "riwayaAr": "إسحاق عن خلف العاشر",
+   "items": [
+    {
+     "label": "الحرف المخالف لحفص",
+     "color": "#FF00FF",
+     "style": "filled"
+    },
+    {
+     "label": "الإمالة",
+     "color": "#FF0000",
+     "style": "filled"
+    },
+    {
+     "label": "الإدغام",
+     "color": "#0000FF",
+     "style": "filled"
+    }
+   ]
+  }
+ ]
+}

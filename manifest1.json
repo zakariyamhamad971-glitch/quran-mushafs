@@ -1,0 +1,244 @@
+[
+ {
+  "id": 1,
+  "order": 1,
+  "file": "01_qalun.pdf",
+  "thumb": "01_qalun.webp",
+  "titleAr": "قالون عن نافع المدني",
+  "riwayaAr": "قالون عن نافع المدني",
+  "pages": 604,
+  "sizeMB": 4.8,
+  "apiRiwayaIds": [
+   5,
+   8
+  ]
+ },
+ {
+  "id": 2,
+  "order": 2,
+  "file": "02_warsh.pdf",
+  "thumb": "02_warsh.webp",
+  "titleAr": "ورش عن نافع المدني",
+  "riwayaAr": "ورش عن نافع المدني",
+  "pages": 604,
+  "sizeMB": 5.2,
+  "apiRiwayaIds": [
+   2,
+   10,
+   18
+  ]
+ },
+ {
+  "id": 3,
+  "order": 3,
+  "file": "03_albazzi.pdf",
+  "thumb": "03_albazzi.webp",
+  "titleAr": "البزي عن ابن كثير المكي",
+  "riwayaAr": "البزي عن ابن كثير المكي",
+  "pages": 604,
+  "sizeMB": 4.2,
+  "apiRiwayaIds": [
+   4,
+   11
+  ]
+ },
+ {
+  "id": 4,
+  "order": 4,
+  "file": "04_qunbul.pdf",
+  "thumb": "04_qunbul.webp",
+  "titleAr": "قنبل عن ابن كثير المكي",
+  "riwayaAr": "قنبل عن ابن كثير المكي",
+  "pages": 604,
+  "sizeMB": 4.4,
+  "apiRiwayaIds": [
+   6,
+   11
+  ]
+ },
+ {
+  "id": 5,
+  "order": 5,
+  "file": "05_addouri_abu_amr.pdf",
+  "thumb": "05_addouri_abu_amr.webp",
+  "titleAr": "الدوري عن أبي عمرو البصري",
+  "riwayaAr": "الدوري عن أبي عمرو البصري",
+  "pages": 604,
+  "sizeMB": 4.2,
+  "apiRiwayaIds": [
+   13
+  ]
+ },
+ {
+  "id": 6,
+  "order": 6,
+  "file": "06_assusi.pdf",
+  "thumb": "06_assusi.webp",
+  "titleAr": "السوسي عن أبي عمرو البصري",
+  "riwayaAr": "السوسي عن أبي عمرو البصري",
+  "pages": 604,
+  "sizeMB": 4.2,
+  "apiRiwayaIds": [
+   7
+  ]
+ },
+ {
+  "id": 7,
+  "order": 7,
+  "file": "07_hisham.pdf",
+  "thumb": "07_hisham.webp",
+  "titleAr": "هشام عن ابن عامر الدمشقي",
+  "riwayaAr": "هشام عن ابن عامر الدمشقي",
+  "pages": 604,
+  "sizeMB": 4.1,
+  "apiRiwayaIds": [
+   19
+  ]
+ },
+ {
+  "id": 8,
+  "order": 8,
+  "file": "08_ibn_dhakwan.pdf",
+  "thumb": "08_ibn_dhakwan.webp",
+  "titleAr": "ابن ذكوان عن ابن عامر الدمشقي",
+  "riwayaAr": "ابن ذكوان عن ابن عامر الدمشقي",
+  "pages": 604,
+  "sizeMB": 4.1,
+  "apiRiwayaIds": [
+   16
+  ]
+ },
+ {
+  "id": 9,
+  "order": 9,
+  "file": "09_shu3ba.pdf",
+  "thumb": "09_shu3ba.webp",
+  "titleAr": "شعبة عن عاصم الكوفي",
+  "riwayaAr": "شعبة عن عاصم الكوفي",
+  "pages": 604,
+  "sizeMB": 4.0,
+  "apiRiwayaIds": [
+   15
+  ]
+ },
+ {
+  "id": 11,
+  "order": 10,
+  "file": "11_khalaf_hamza.pdf",
+  "thumb": "11_khalaf_hamza.webp",
+  "titleAr": "خلف عن حمزة الكوفي",
+  "riwayaAr": "خلف عن حمزة الكوفي",
+  "pages": 604,
+  "sizeMB": 4.2,
+  "apiRiwayaIds": [
+   3
+  ]
+ },
+ {
+  "id": 12,
+  "order": 11,
+  "file": "12_khallad.pdf",
+  "thumb": "12_khallad.webp",
+  "titleAr": "خلاد عن حمزة الكوفي",
+  "riwayaAr": "خلاد عن حمزة الكوفي",
+  "pages": 604,
+  "sizeMB": 4.1,
+  "apiRiwayaIds": []
+ },
+ {
+  "id": 13,
+  "order": 12,
+  "file": "13_abu_alharith.pdf",
+  "thumb": "13_abu_alharith.webp",
+  "titleAr": "أبو الحارث عن الكسائي الكوفي",
+  "riwayaAr": "أبو الحارث عن الكسائي الكوفي",
+  "pages": 604,
+  "sizeMB": 4.3,
+  "apiRiwayaIds": []
+ },
+ {
+  "id": 14,
+  "order": 13,
+  "file": "14_addouri_kisai.pdf",
+  "thumb": "14_addouri_kisai.webp",
+  "titleAr": "الدوري عن الكسائي الكوفي",
+  "riwayaAr": "الدوري عن الكسائي الكوفي",
+  "pages": 604,
+  "sizeMB": 4.2,
+  "apiRiwayaIds": [
+   12
+  ]
+ },
+ {
+  "id": 15,
+  "order": 14,
+  "file": "15_ibn_wardan.pdf",
+  "thumb": "15_ibn_wardan.webp",
+  "titleAr": "ابن وردان عن أبي جعفر المدني",
+  "riwayaAr": "ابن وردان عن أبي جعفر المدني",
+  "pages": 604,
+  "sizeMB": 4.5,
+  "apiRiwayaIds": []
+ },
+ {
+  "id": 16,
+  "order": 15,
+  "file": "16_ibn_jammaz.pdf",
+  "thumb": "16_ibn_jammaz.webp",
+  "titleAr": "ابن جماز عن أبي جعفر المدني",
+  "riwayaAr": "ابن جماز عن أبي جعفر المدني",
+  "pages": 604,
+  "sizeMB": 4.5,
+  "apiRiwayaIds": [
+   20
+  ]
+ },
+ {
+  "id": 17,
+  "order": 16,
+  "file": "17_ruways.pdf",
+  "thumb": "17_ruways.webp",
+  "titleAr": "رويس عن يعقوب البصري",
+  "riwayaAr": "رويس عن يعقوب البصري",
+  "pages": 604,
+  "sizeMB": 4.2,
+  "apiRiwayaIds": [
+   9
+  ]
+ },
+ {
+  "id": 18,
+  "order": 17,
+  "file": "18_rawh.pdf",
+  "thumb": "18_rawh.webp",
+  "titleAr": "روح عن يعقوب البصري",
+  "riwayaAr": "روح عن يعقوب البصري",
+  "pages": 604,
+  "sizeMB": 4.2,
+  "apiRiwayaIds": [
+   9
+  ]
+ },
+ {
+  "id": 19,
+  "order": 18,
+  "file": "19_idris.pdf",
+  "thumb": "19_idris.webp",
+  "titleAr": "إدريس عن خلف العاشر",
+  "riwayaAr": "إدريس عن خلف العاشر",
+  "pages": 604,
+  "sizeMB": 5.1,
+  "apiRiwayaIds": []
+ },
+ {
+  "id": 20,
+  "order": 19,
+  "file": "20_ishaq.pdf",
+  "thumb": "20_ishaq.webp",
+  "titleAr": "إسحاق عن خلف العاشر",
+  "riwayaAr": "إسحاق عن خلف العاشر",
+  "pages": 604,
+  "sizeMB": 5.0,
+  "apiRiwayaIds": []
+ }
+]
